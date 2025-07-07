@@ -21,7 +21,17 @@ I extracted viewing patterns based on time, date, and content — and visualized
 
 ## 📊 Preview
 
-![Heatmap](assets/heatmap_watch.png)
+![Top 10 Titles](assets/top_titles.png)
+
+![Daily Watch Trend](assets/daily_trend.png)
+
+![Hourly Watch Frequency](assets/hourly_watch.png)
+
+![Weekday Watch Frequency](assets/weekday_watch.png)
+
+![Watch Time Heatmap](assets/heatmap_watch.png)
+
+
 
 ## 🤓 Author
 **Ritesh Manandhar**  
