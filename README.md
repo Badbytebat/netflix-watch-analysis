@@ -21,7 +21,7 @@ I extracted viewing patterns based on time, date, and content — and visualized
 
 ## 📊 Preview
 
-![Top 10 Titles](assets/top_titles.png)
+![Top 10 Titles](assets/Top_Titles.png)
 
 ![Daily Watch Trend](assets/daily_trend.png)
 
