@@ -36,4 +36,4 @@ I extracted viewing patterns based on time, date, and content — and visualized
 ## Author
 **Ritesh Manandhar**  
 Budding Data Analyst | Aspiring Data Scientist  
-[GitHub](https://github.com/mr.Badbytebat) | [LinkedIn](https://www.linkedin.com/in/ritesh-bytegenosis)
+[GitHub](https://github.com/Badbytebat) | [LinkedIn](https://www.linkedin.com/in/ritesh-bytegenosis)
